@@ -1,0 +1,11 @@
+C:\Users\Дарья\source\repos\MonkeyJungle\obj\Debug\MonkeyJungle.csproj.AssemblyReference.cache
+C:\Users\Дарья\source\repos\MonkeyJungle\obj\Debug\MonkeyJungle.csproj.SuggestedBindingRedirects.cache
+C:\Users\Дарья\source\repos\MonkeyJungle\obj\Debug\Platform_Game_Tutorial_MOO_ICT.Form1.resources
+C:\Users\Дарья\source\repos\MonkeyJungle\obj\Debug\MonkeyJungle.Properties.Resources.resources
+C:\Users\Дарья\source\repos\MonkeyJungle\obj\Debug\MonkeyJungle.csproj.GenerateResource.cache
+C:\Users\Дарья\source\repos\MonkeyJungle\obj\Debug\MonkeyJungle.csproj.CoreCompileInputs.cache
+C:\Users\Дарья\source\repos\MonkeyJungle\bin\Debug\MonkeyJungle.exe.config
+C:\Users\Дарья\source\repos\MonkeyJungle\bin\Debug\MonkeyJungle.exe
+C:\Users\Дарья\source\repos\MonkeyJungle\bin\Debug\MonkeyJungle.pdb
+C:\Users\Дарья\source\repos\MonkeyJungle\obj\Debug\MonkeyJungle.exe
+C:\Users\Дарья\source\repos\MonkeyJungle\obj\Debug\MonkeyJungle.pdb
